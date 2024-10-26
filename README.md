@@ -1,6 +1,8 @@
 # jeevalaharini01.github.io
 DATA ANALYSIS -- AIRLINE PASSENGER SATISFACTION
 
+### AIRLINE PASSENGER SATISFACTION LINK -- https://app.powerbi.com/view?r=eyJrIjoiODBmMWUyNzMtMzE3MS00ZWIwLTg5OWQtYTE3ZjJjNWM1NGIwIiwidCI6IjNlODdiMzE5LWYwZjgtNGY2OC1hZTU0LTFjN2U4NGZlZGY1MyJ9
+
 ✈️ *Enhancing Airline Passenger Satisfaction with Data Analytics!* 📊✨
 
 In today’s highly competitive aviation industry, passenger satisfaction is more crucial than ever! Data analytics is transforming how airlines understand and meet customer needs. From tracking on-time performance
@@ -73,7 +75,5 @@ Let’s connect to discuss how data-driven strategies can elevate customer satis
    - Continuously monitor KPIs to assess the impact of changes.
    - Collect post-implementation feedback and refine data models and processes to improve future analysis.
 
----
-
-These steps enable a data-driven approach to boosting passenger satisfaction, ultimately leading to a more reliable, enjoyable, and tailored flying experience for passengers.
-
+### DASHBOARD VISUALIZATION
+![Uploading Screenshot 2024-10-26 101531.png…]()
