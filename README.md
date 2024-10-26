@@ -76,4 +76,4 @@ Let’s connect to discuss how data-driven strategies can elevate customer satis
    - Collect post-implementation feedback and refine data models and processes to improve future analysis.
 
 ### DASHBOARD VISUALIZATION
-![Uploading Screenshot 2024-10-26 101531.png…]()
+![Screenshot 2024-10-26 101531](https://github.com/user-attachments/assets/72fceedf-d565-459b-b0fd-305194896f8a)
